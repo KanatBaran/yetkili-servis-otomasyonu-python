@@ -1,0 +1,4 @@
+1|42 ABC 001|Baran Kanat|01.06.2023|2|sag, sol koltuklarda temizlik yapildi./45/100|Kapi boyandi/130/270
+2|43 DEF 002|Mevlüt Çakmak|02.06.2023|3|motor yağı değişti./40/130|ön cam değişti./20/100|arka cam değişti./50/80
+3|44 GHJ 003|Ahmet Altin|01.06.2023|2|akü sarj edildi./24/30|farlar cilalandı./60/10
+4|45 KLM 004|Mehmet Elmas|03.06.2023|1|tekerlekler değişti./560/900
