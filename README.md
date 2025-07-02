@@ -17,7 +17,7 @@ Bu proje, yetkili servislere gelen arızalı araçların bilgilerinin tutulduğu
 ```
 ├── yetkiliservis.pdf       # Proje tanıtımı ve dokümantasyonu
 ├── yetkiliservis.py        # Python ile yazılmış konsol uygulaması
-├── 22100011013.txt         # Örnek araç kayıt verisi
+├── yetkiliservis.txt         # Örnek araç kayıt verisi
 └── README.md               # Proje açıklaması ve kullanım kılavuzu
 ```
 
